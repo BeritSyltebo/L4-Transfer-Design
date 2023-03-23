@@ -6,7 +6,7 @@ Investigation of transfer trajectories from Low Earth Orbit (LEO) to an Earth-Mo
 
 ## Background
 
-WIP
+This was my final project for AA528 Space Dynamics & Control at the University of Washington as assigned by Professor Mehran Mesbahi. The objective was to take core concepts from the course and apply them to our individual areas of interest or research in the form of an investigative and creative project. I chose to further explore libration points and their stability properties in order to realize a transfer trajectory using the circular restricted 3-body problem (CR3BP). There were some clear shortfalls in my application as the complexity of the problem revealed itself. These complications are discussed as well as accomplishments during the two weeks of working on the project.
 
 ## Project Components
 
