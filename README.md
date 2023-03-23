@@ -10,9 +10,14 @@ This was my final project for AA528 Space Dynamics & Control at the University o
 
 ## Project Components
 
-WIP
+1. Final presentation PowerPoint
+2. Complete report
+3. Submitted shortened report for course grading
+4. MATLAB code for simulations and plots
 
 ## References
+
+Hanspeter Schaub, and John L. Junkins. Analytical Mechanics of Space Systems. American Institute Of Aeronautics And Astronautics, Inc, 2018
 
 He, X., Liang, Y., Xu, M., amp; Zheng, Y. (2020). Lowthrust transfer to the Earth-moon triangular libration point via Horseshoe Orbit. Acta Astronautica, 177, 111–121. https://doi.org/10.1016/j.actaastro.2020.07.014
 
